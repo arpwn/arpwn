@@ -11,4 +11,4 @@ Web Developer | Systems engineer :computer:. (In progress)
 
 - :earth_americas: I'm from CDMX - Mexico
 - :video_game: I like to play video games in my free time
-- :gem: I love to do exercise
+- :muscle: I love to do exercise
