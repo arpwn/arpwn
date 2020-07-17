@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://www.instagram.com/p/CCgf8XVBkwX/?utm_source=ig_web_copy_link">
 
-<!--
-**armandonery/armandonery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Armando :avocado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Developer | Systems engineer :ghost:. (In progress)
+
+Holberton School Student. :man_technologist:
+
+## About me 
+
+:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+
+- :earth_americas: I'm from CDMX - Mexico
+- :video_game: I like to play video games
+- :gem: I love to customize everything lol
