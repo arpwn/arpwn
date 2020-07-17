@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.instagram.com/p/CCgf8XVBkwX/?utm_source=ig_web_copy_link">
+<img align="right" width="400" height="400" src="https://www.instagram.com/p/CCgf8XVBkwX/">
 
 
 # Hi, I'm Armando :avocado:
