@@ -1,15 +1,13 @@
-<img align="right" width="400" height="400" src="https://www.instagram.com/p/CCgf8XVBkwX/?utm_source=ig_embed&amp;utm_campaign=loading">
+<img align="right" width="400" height="400" src="https://images.unsplash.com/photo-1501612780327-45045538702b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
 
 
 # Hi, I'm Armando :avocado:
 
 Web Developer | Systems engineer :ghost:. (In progress)
 
-Holberton School Student. :man_technologist:
-
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Basketball | :black_heart: Dubstep | :blue_heart: Programming
 
 - :earth_americas: I'm from CDMX - Mexico
 - :video_game: I like to play video games
