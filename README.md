@@ -1,9 +1,9 @@
-<img align="right" width="400" height="400" src="https://images.unsplash.com/photo-1501612780327-45045538702b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
+<img align="right" width="400" height="400" src="https://images.unsplash.com/photo-1594900532235-f3c9209b2fb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
 
 
 # Hi, I'm Armando :alien:
 
-Web Developer | Systems engineer :code:. (In progress)
+Web Developer | Systems engineer :computer:. (In progress)
 
 ## About me 
 
@@ -11,4 +11,4 @@ Web Developer | Systems engineer :code:. (In progress)
 
 - :earth_americas: I'm from CDMX - Mexico
 - :video_game: I like to play video games in my free time
-- :gem: I love to share my knowledge
+- :gem: I love to do exercise
