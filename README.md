@@ -3,12 +3,12 @@
 
 # Hi, I'm Armando :avocado:
 
-Web Developer | Systems engineer :ghost:. (In progress)
+Web Developer | Systems engineer :alien:. (In progress)
 
 ## About me 
 
 :heart: Basketball | :black_heart: Dubstep | :blue_heart: Programming
 
 - :earth_americas: I'm from CDMX - Mexico
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :video_game: I like to play video games in my free time
+- :gem: I love to share my knowledge
