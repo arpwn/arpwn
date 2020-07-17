@@ -1,9 +1,9 @@
 <img align="right" width="400" height="400" src="https://images.unsplash.com/photo-1501612780327-45045538702b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
 
 
-# Hi, I'm Armando :avocado:
+# Hi, I'm Armando :alien:
 
-Web Developer | Systems engineer :alien:. (In progress)
+Web Developer | Systems engineer :code:. (In progress)
 
 ## About me 
 
