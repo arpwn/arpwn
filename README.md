@@ -45,4 +45,3 @@ Web Developer | Systems engineer :computer:. (In progress)
 ## Contact me
 
 [LinkedIn](https://www.linkedin.com/in/armandonery34/)
-[armandogune25@gmail.com]
