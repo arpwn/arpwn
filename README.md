@@ -19,16 +19,30 @@ Web Developer | Systems engineer :computer:. (In progress)
 
 1. C#
 2. Javascript
+3. Python
 
 ### Front end 
 
 1. React JS
 2. Angular
+3. Bootstrap
+4. HTML5
+5. CSS3
 
 ### Back end
 
-1. 
+1. .Net
+2. MVC5
+3. Node JS
+
+### Tools
+
+1. Visual Studio 2019
+2. Visual Studio Code
+3. Command Line
+4. Git
 
 ## Contact me
 
 [LinkedIn](https://www.linkedin.com/in/armandonery34/)
+[Email - armandogune25@gmail.com]
