@@ -1,7 +1,7 @@
 <img align="right" width="400" height="400" src="https://images.unsplash.com/photo-1594900532235-f3c9209b2fb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
 
 
-# Hi, I'm Armando :alien:
+# Hi, I'm Armando :alien: 👨‍💻
 
 Web Developer | Systems engineer :computer:. (In progress)
 
