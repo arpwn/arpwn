@@ -15,5 +15,17 @@ Web Developer | Systems engineer :computer:. (In progress)
 
 ## Technologies
 
+### Porgramming languages
+
+1. C#
+2. Javascript
+
+### Front end frameworks
+
+1. React JS
+2. Angular
+
 
 ## Contact me
+
+[LinkedIn](https://www.linkedin.com/in/armandonery34/)
