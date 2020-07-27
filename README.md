@@ -18,7 +18,7 @@ Web Developer | Systems engineer :computer:. (In progress)
 ### Porgramming languages
 
 1. C#
-2. Javascript
+2. Javascript 
 3. Python
 
 ### Front end 
