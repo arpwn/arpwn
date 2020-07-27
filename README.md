@@ -45,9 +45,3 @@ Web Developer | Systems engineer :computer:. (In progress)
 ## Contact me
 
 [LinkedIn](https://www.linkedin.com/in/armandonery34/)
-
-## Stats
-
-![Armando's github stats](https://github-readme-stats.vercel.app/api?username=armandonery&show_icons=true&theme=radical)
-
-
