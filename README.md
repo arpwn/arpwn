@@ -10,7 +10,7 @@ Web Developer | Systems engineer :computer:. (In progress)
 :heart: Basketball | :black_heart: Dubstep | :blue_heart: Programming
 
 - :earth_americas: I'm from CDMX - Mexico
-- :video_game: I like to play video games in my free time
+- :video_game: I like to learn new stuff everyday
 - :muscle: I love to do exercise
 
 ## Technologies
