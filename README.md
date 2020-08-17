@@ -1,6 +1,3 @@
-<img align="right" width="400" height="400" src="https://images.unsplash.com/photo-1595259734744-a1d3d69d61f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80">
-
-
 # Hi, I'm Armando :avocado:
 
 Web Developer | Systems engineer :computer:. (In progress)
