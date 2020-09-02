@@ -14,30 +14,30 @@ Web Developer | Systems engineer :computer:. (In progress)
 
 ### Porgramming languages
 
-1. C#
-2. Javascript 
-3. Python
+1. C# <img width="20px" src="" />
+2. Javascript <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+3. Python <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 ### Front end 
 
-1. React JS
-2. Angular
-3. Bootstrap
-4. HTML5
-5. CSS3
+1. React JS <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+2. Angular <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+3. Bootstrap <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+4. HTML5 <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+5. CSS3 <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 ### Back end
 
-1. .Net
-2. MVC5
-3. Node JS
+1. .Net <img width="20px" src="" />
+2. MVC5 <img width="20px" src="" />
+3. Node JS <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 ### Tools
 
-1. Visual Studio 2019
-2. Visual Studio Code
-3. Command Line
-4. Git
+1. Visual Studio 2019 <img width="20px" src="" />
+2. Visual Studio Code <img width="20px" src="" />
+3. Command Line <img width="20px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+4. Git <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 ## Contact me
 
