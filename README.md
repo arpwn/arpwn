@@ -9,8 +9,8 @@
 
 Welcome to my Github! I'm Armando a web developer jr. who enjoys to write code and learning while doing.
 
-### 🙎‍♂️ About me
-
+### 🙎‍♂️ Current Status
+- Systems Engineer (in progress).
 
 ### ✔️ I'm currently learning
 - JavaScript
