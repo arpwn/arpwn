@@ -29,6 +29,7 @@
 - Backend: .NET, MVC5
 - JS Frameworks: React JS
 - Programming: C#, Python
+- Databases: SQL Server
 - Software: Visual Studio 2019, VS Code, Git
 
 
