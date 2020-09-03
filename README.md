@@ -1,8 +1,8 @@
 <p align='center'>
-<a href="https://twitter.com/8bithemant">
+<a href="https://twitter.com/nery_pwn">
   <img align="center" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="https://www.linkedin.com/in/armandonery34/">
   <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
@@ -29,6 +29,7 @@ Welcome to my Github! I'm Armando a web developer jr. who enjoys to write code a
 - JS Frameworks: React JS
 - Programming: C#, Python
 - Software: Visual Studio 2019, VS Code, Git
+
 
 
 
