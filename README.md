@@ -20,5 +20,8 @@ Welcome to my Github! I'm Armando a web developer jr.
 - Code frontend mentor challenges
 - Become skilled in JavaScript and ReactJS
 
+### Skills
+<a height="22px" width="22px" href="https://cdn.svgporn.com/logos/dotnet.svg"></a>
+
 
 
