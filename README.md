@@ -7,7 +7,8 @@
 </a>
 </p>
 
-Welcome to my Github! I'm Armando a web developer jr. who enjoys to write code and learning while doing.
+<p align="center">Welcome to my Github! I'm Armando a web developer jr. who enjoys to write code and learning while doing.</p>
+<hr>
 
 ### 🙎‍♂️ Current Status
 - Systems Engineer (in progress).
