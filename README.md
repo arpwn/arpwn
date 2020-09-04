@@ -22,6 +22,7 @@
 
 ### 💡 Goals for the rest of 2020
 - Code frontend mentor challenges
+- devchallenges.io
 - Become skilled in JavaScript and ReactJS
 
 ### 🧙‍♂️ Skills
@@ -30,7 +31,7 @@
 - JS Frameworks: React JS
 - Programming: C#, Python
 - Databases: SQL Server
-- Software: Visual Studio 2019, VS Code, Git
+- Software: Visual Studio 2019, VS Code, Git, Notion
 
 
 
