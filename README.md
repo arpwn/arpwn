@@ -20,8 +20,9 @@
 ### 👨🏽‍💻 I'm currently working on
 - Building projects and my portfolio website. 
 
-### 💡 Goals for the rest of 2020
+### 💡 Goals for the rest of 2021
 - Code frontend mentor challenges
+- Codewell challenges
 - devchallenges.io
 - Become skilled in JavaScript and ReactJS
 
@@ -32,8 +33,3 @@
 - Programming: C#, Python
 - Databases: SQL Server
 - Software: Visual Studio 2019, VS Code, Git, Notion
-
-
-
-
-
