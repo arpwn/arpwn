@@ -15,12 +15,10 @@
 - ReactJS 
 
 ### 👨🏽‍💻 I'm currently working on
-- Building projects and my portfolio website. 
+- Coding projects 
 
 ### 💡 Goals for the rest of 2021
-- Code frontend mentor challenges
-- Codewell challenges
-- devchallenges.io
+- Code frontend challenges
 - Become skilled in JavaScript and ReactJS
 
 ### 🧙‍♂️ Skills
