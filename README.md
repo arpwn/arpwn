@@ -1,13 +1,10 @@
 <p align='center'>
-<a href="https://twitter.com/nery_pwn">
-  <img align="center" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/armandonery34/">
   <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
 
-<p align="center">Welcome to my Github! I'm Armando a web developer jr. who enjoys to write code and learning while doing.</p>
+<p align="center">Welcome to my Github! I'm Armando a web developer who enjoys to write code and learning while doing.</p>
 <hr>
 
 ### 🙎‍♂️ Current Status
@@ -27,9 +24,9 @@
 - Become skilled in JavaScript and ReactJS
 
 ### 🧙‍♂️ Skills
-- Frontend: HTML5, CSS3, Bootstrap, Javascript
+- Frontend: HTML5, CSS3, Bootstrap 5, Javascript, ES6
 - Backend: .NET, MVC5
 - JS Frameworks: React JS
-- Programming: C#, Python
+- Programming: C/C++, Java, C#, Python 3
 - Databases: SQL Server
 - Software: Visual Studio 2019, VS Code, Git, Notion
