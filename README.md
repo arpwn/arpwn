@@ -13,6 +13,7 @@
 ### ✔️ I'm currently learning
 - JavaScript
 - ReactJS 
+- Next JS
 
 ### 👨🏽‍💻 I'm currently working on
 - Coding projects 
