@@ -18,7 +18,7 @@
 ### 👨🏽‍💻 I'm currently working on
 - Coding projects 
 
-### 💡 Goals for the rest of 2021
+### 💡 Goals for the rest of 2022
 - Code frontend challenges
 - Become skilled in JavaScript and ReactJS
 
