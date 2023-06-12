@@ -37,4 +37,4 @@
 <img align="left" alt="Linux" width="24px" src="https://cdn.svgporn.com/logos/linux-tux.svg" /> <br />
 
 ## 🔥 Streak Stats
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=armandonery&theme=algolia" alt="candida18"  /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpwn&theme=algolia" alt="candida18"  /></p>
