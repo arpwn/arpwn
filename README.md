@@ -32,7 +32,7 @@
 ### 👉 Software & Tools
 <img align="left" alt="Git" width="24px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
 <img align="left" alt="Vsiual Studio" width="24px" src="https://cdn.svgporn.com/logos/visual-studio.svg" />
-<img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
+<img align="left" alt="Visual Studio Code!" width="24px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
 <img align="left" alt="Notion" width="24px" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
 <img align="left" alt="Linux" width="24px" src="https://cdn.svgporn.com/logos/linux-tux.svg" /> <br />
 
