@@ -1,10 +1,9 @@
-<p align='center'>
-<a href="https://www.linkedin.com/in/armandonery34/">
-  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
+  <a href="https://www.linkedin.com/in/armandonery34/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Armando Nery's LinkedIn Profile" height="30" width="30">
+  </a>
 
-<p align="center">Crafting digital experiences with code and coffee. Always eager to learn, grow, and push my pixels to the limit.</p>
+
+<p>Crafting digital experiences with code and coffee. Always eager to learn, grow, and push my pixels to the limit.</p>
 <hr>
 
 ### 👨🏻‍💻 About Me
