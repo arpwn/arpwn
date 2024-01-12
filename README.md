@@ -8,8 +8,8 @@
 <hr>
 
 ### 👨🏻‍💻 About Me
-- 📈 I'm a Web Developer and Cybersecurity Enthusiast!
-- 💻 I'm currently learning and practicing Javascript, Ruby and React.
+- Building the future of the web, one line of code at a time. Web Dev by day, Cybersecurity explorer by night. Always learning, always creating.
+- JavaScript, Ruby, React - my coding playground. Passionate about crafting secure, user-friendly experiences that push the boundaries of the web.
  
 ### 👉 Programming languages
 <img align="left" alt="Javascript" width="24px" src="https://cdn.svgporn.com/logos/javascript.svg" />
