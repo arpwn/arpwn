@@ -1,18 +1,42 @@
-  <a href="https://www.linkedin.com/in/armandonery34/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Armando Nery's LinkedIn Profile" height="30" width="30">
-  </a>
+  # 👋 Hi, I'm Jesús Armando Gutiérrez Nery
 
-I'm a front end developer from :mexico:
+**Front-End Developer from 🇲🇽**
 
-<details>
-<summary>
-  About me
-</summary>
+I enjoy building front-end systems with **React, TypeScript, and modern tooling**, balancing code quality with great user experience.  
+Always learning, always improving.
 
-JavaScript & React - my coding playground. Passionate about crafting secure, user-friendly experiences that push the boundaries of the web.
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpwn&layout=compact&hide=css,html)
-</details>
+## 🧠 About Me
+- 💻 Front-end focused engineer with real-world product experience  
+- ⚛️ React, TypeScript, and modern JavaScript as my main stack    
+- 🌍 Comfortable working in English with international teams  
 
-# 🔥 Streak Stats
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpwn&theme=algolia" alt="candida18"  /></p>
+---
+
+## 🛠 Tech Stack
+**Frontend**
+- React, TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS, Sass
+- Responsive & accessible UI
+
+**Tools & Workflow**
+- Git & GitHub
+- Vite, npm
+- Agile / Scrum environments
+
+---
+
+## 📌 What I Care About
+- Writing clean, maintainable code
+- Building interfaces users actually enjoy
+- Learning fast and improving every project
+- Turning ideas into real, usable products
+
+---
+
+## 📫 Let’s Connect
+- 💼 Open to front-end roles
+- 🌐 Always interested in collaborating and learning  
+
+Thanks for stopping by 👋
