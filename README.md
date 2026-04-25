@@ -1,42 +1,42 @@
-  # 👋 Hi, I'm Jesús Armando Gutiérrez Nery
+# Jesús Armando Gutiérrez Nery
 
-**Front-End Developer from 🇲🇽**
+**Front-End Developer**  
+**React · Angular · TypeScript**
 
-I enjoy building front-end systems with **React, TypeScript, and modern tooling**, balancing code quality with great user experience.  
-Always learning, always improving.
+I build modern interfaces focused on clarity, maintainability, and real product value.  
+Interested in internal tools, dashboard experiences, and frontend systems that help teams work better.
 
----
+## Featured Projects
 
-## 🧠 About Me
-- 💻 Front-end focused engineer with real-world product experience  
-- ⚛️ React, TypeScript, and modern JavaScript as my main stack    
-- 🌍 Comfortable working in English with international teams  
+- [Portfolio V2](https://portfolio-v2-rho-amber.vercel.app)  
+  Personal portfolio with a stronger focus on interaction, structure, and presentation.
 
----
+- [RuleCheck](https://rulecheck-kappa.vercel.app)  
+  Rule-based internal request evaluator with risk scoring, reasoning, and next-step guidance.
 
-## 🛠 Tech Stack
-**Frontend**
-- React, TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS, Sass
-- Responsive & accessible UI
+- [ShiftNote](https://shiftnote-one.vercel.app/)  
+  Small internal-tool style app for generating structured operational handoff summaries.
 
-**Tools & Workflow**
-- Git & GitHub
-- Vite, npm
-- Agile / Scrum environments
+- [Crypto Market Dashboard](https://crypto-market-dashboard-steel.vercel.app)  
+  Data dashboard with charts, filters, and responsive UI.
 
----
+- [SpaceX Mission Control](https://spacex-mission-control-delta.vercel.app)  
+  Frontend dashboard project focused on UX and data presentation.
 
-## 📌 What I Care About
-- Writing clean, maintainable code
-- Building interfaces users actually enjoy
-- Learning fast and improving every project
-- Turning ideas into real, usable products
+## Tech
 
----
+`React` `Angular` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Sass` `Git` `Vite` `Figma`
 
-## 📫 Let’s Connect
-- 💼 Open to front-end roles
-- 🌐 Always interested in collaborating and learning  
+## Focus
 
-Thanks for stopping by 👋
+- Product-oriented frontend development
+- Reusable and maintainable UI
+- Responsive and accessible interfaces
+- Internal tools and dashboard experiences
+- Remote collaboration in English
+
+## Links
+
+[Portfolio](https://portfolio-v2-rho-amber.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/armandonery34/) ·
+[GitHub](https://github.com/arpwn)
